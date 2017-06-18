@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMDB </string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="second_page">Welcome to the second page!</string>
+
+</resources>
